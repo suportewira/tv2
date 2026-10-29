@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+# Vídeos: binários, sem compressão delta (deixa o envio bem mais rápido e leve).
+*.mp4 binary -delta
+*.m4v binary -delta
+*.webm binary -delta
+*.mov binary -delta
+*.ogv binary -delta

@@ -1,0 +1,14 @@
+{
+  "name": "Vídeo TV 2",
+  "short_name": "Vídeo TV 2",
+  "description": "Toca em loop os vídeos publicados, mesmo com a internet oscilando.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
